@@ -1,0 +1,17 @@
+<aiml version="1.0">
+
+<!-- This category works with the standard AIML Set -->
+<category>
+<pattern>LOAD AIML B</pattern>
+<template>
+  <learn>standard/std-admission.aiml</learn>
+    <learn>standard/std-academics.aiml</learn>
+    <learn>standard/std-department.aiml</learn>
+    <learn>standard/std-main.aiml</learn>
+    <learn>standard/std-greeting.aiml</learn>
+   <learn>standard/std-selftest.aiml</learn>
+
+</template>
+</category>
+
+</aiml>
